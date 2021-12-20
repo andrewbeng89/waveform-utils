@@ -1,0 +1,16 @@
+{
+  "name": "waveform-utils",
+  "collaborators": [
+    "andrewbeng89 <andrewbeng89@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "waveform_utils_bg.wasm",
+    "waveform_utils.js",
+    "waveform_utils_bg.js",
+    "waveform_utils.d.ts"
+  ],
+  "module": "waveform_utils.js",
+  "types": "waveform_utils.d.ts",
+  "sideEffects": false
+}
